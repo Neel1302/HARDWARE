@@ -1,0 +1,10 @@
+http://www.eastaughs.fsnet.co.uk/cpu/structure-index.htm
+
+EXPECTATIONS: 
+
+Only responsible for knowing and understanding the section on CPU STRUCTURE.  It is important
+to know the ALU, Control Unit, Register Array, and System Bus.
+
+Take the QUIZ and see how well you do.
+
+NOTE: Instruction Execution is TEJ4M material.
